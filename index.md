@@ -22,6 +22,7 @@ Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil gam
 With the other player, decide
 
 * What mark (X or O) initiates the game
+  > Consider rotating a starting player as a fair practice.
 * Who of you is going to use X and who is going to use O.
 
 ## Let's play
@@ -49,6 +50,7 @@ The game can complete with a win/lose or a draw.
 ## Tips and tricks
 
 * You will discover your best playing scenarion shortly just playing along.
+* You can increase you chances to win the game if you're the one who starts.
 * When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig in his/her next turn by blocking his/her three-same-mark rows, if any. You can do that by placing your mark nex to two other player's marks.
 
 ## Play on
