@@ -18,6 +18,10 @@ Tic-Tac-Toe (aka noughts and crosses or Xs and Os) is a paper-and-pencil game th
 
 ### Player's actions
 
+#### Check out a sample round
+
+![example](example.jpg)
+
 ## Game over
 
 ## Tips and tricks
