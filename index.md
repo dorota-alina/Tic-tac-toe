@@ -53,7 +53,7 @@ The game can complete with a win/lose or a draw.
 
 * Just play along: You will discover your best playing scenarion shortly.
 * You can increase you chances to win the game if you're the one who starts.
-* When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig in his/her next turn by blocking his/her three-same-mark rows, if any. You can do that by placing your mark nex to two other player's marks.
+* When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig by blocking their three-same-mark rows, if any. You can do that by placing your mark next to two same consecutive marks of the other player.
 
 ## Play on
 
