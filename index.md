@@ -1,8 +1,5 @@
 ---
-title: How to play Tic-Tac-Toe
-author: Dorota Wójcik
-date: 2021-11-30
-output: html_document
+
 ---
 
 # How to play Tic-Tac-Toe
