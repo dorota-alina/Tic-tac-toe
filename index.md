@@ -12,8 +12,13 @@ Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil gam
 
 ## Before you start
 
+### Find and prepare
+
 * Find one person to play with.
 * Prepare a pensil (or something else you can use for putting down X/O marks on the board) and a piece of paper (or something that you can use for drawing your grid and marks).
+
+## Decide and select
+
 * With the other player, decide who is going to take the firs turn: a player using Os or a player using Xs.
 * With the other player, decide who of you is going to use Xs and who is going to use Os.
 
@@ -23,9 +28,10 @@ Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil gam
 
 Here are Tic-Tac-Toe player's actions:
 
-1. When your turn comes, mark a selected field in the grid with your symbol (X or O).
-2. Continue until one of you puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means he/she wins.
-3. Winner can cross out the lucky row stampling the grid as closed.
+1. Let a player who selected the game-initiating mark start (as [agreed before the game](#decide-and-select).
+2. When your turn comes, mark a selected field in the grid with your symbol (X or O).
+3. Continue until one of you puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means he/she wins.
+4. Winner can cross out the lucky row stampling the grid as closed.
 
 #### Check out a sample round
 
