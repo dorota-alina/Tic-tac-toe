@@ -30,7 +30,7 @@ With the other player, decide
 
 Here are Tic Tac Toe player's actions:
 
-1. Let a player who selected the game-initiating mark start (as [agreed before the game](#decide-and-select).
+1. Let a player who selected the game-initiating mark start (as [agreed before the game](#decide-and-select)).
 2. When your turn comes, mark an empty field of your choice in the grid with your selected symbol (X or O).
 3. Iterate step 2 until one of you puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means he/she wins.
 
