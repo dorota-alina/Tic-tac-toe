@@ -4,11 +4,11 @@
 
 ## In this article
 
-If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic-Tac-Toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
+If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic Tac Toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
 
 ## About Tic Tac Toe
 
-Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil game that requires two players to take turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as Ultimate Tic-Tac-Toe, 3D Tic-Tac-Toe, or Wild Tic Tac Toe.
+Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil game that requires two players to take turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as Ultimate Tic Tac Toe, 3D Tic Tac Toe, or Wild Tic Tac Toe.
 
 ## Before you start
 
