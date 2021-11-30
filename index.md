@@ -22,7 +22,7 @@ Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil gam
 With the other player, decide
 
 * What mark (X or O) initiates the game
-  > Consider rotating a starting player as a fair practice.
+  >> Consider rotating a starting player as a fair practice.
 * Who of you is going to use X and who is going to use O.
 
 ## Let's play
