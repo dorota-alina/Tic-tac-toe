@@ -1,12 +1,7 @@
 ---
-title: "How to play Tic-Tac-Toe"
-knit: (function(input_file, encoding) {
-  out_dir <- 'docs';
-  rmarkdown::render(input_file,
- encoding=encoding,
- output_file=file.path(dirname(input_file), out_dir, 'index.html'))})
-author: "Dorota Wójcik"
-date: "11/30/2021"
+title: How to play Tic-Tac-Toe
+author: Dorota Wójcik
+date: 2021-11-30
 output: html_document
 ---
 
