@@ -21,10 +21,7 @@ Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil gam
 
 With the other player, decide
 
-* What mark (X or O) initiates the game
-
-  > Consider rotating a starting player as a fair practice.
-
+* What mark (X or O) initiates the first game
 * Who of you is going to use X and who is going to use O.
 
 ## Let's play
@@ -34,10 +31,13 @@ With the other player, decide
 Here are Tic Tac Toe player's actions:
 
 1. Let a player who selected the game-initiating mark start (as [agreed before the game](#decide-and-select)).
-2. When your turn comes, mark an empty field of your choice in the grid with your selected symbol (X or O).
+2. Take turns marking empty fields in the grid with your selected symbols (Xs or Os).
 3. Iterate step 2 until one of you puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means he/she wins.
 
-> As a winner, cross out the lucky row, stampling the grid as closed.
+   > As a winner, cross out the lucky row, stampling the grid as closed.
+
+4. Before you start another game, rotate the initiating mark so that the same person does not start two consecutive games.
+5. Iterate steps 1 - 4 as long as you feel like playing.
 
 #### Check out a sample round
 
@@ -51,7 +51,7 @@ The game can complete with a win/lose or a draw.
 
 ## Tips and tricks
 
-* You will discover your best playing scenarion shortly just playing along.
+* Just play along: You will discover your best playing scenarion shortly.
 * You can increase you chances to win the game if you're the one who starts.
 * When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig in his/her next turn by blocking his/her three-same-mark rows, if any. You can do that by placing your mark nex to two other player's marks.
 
