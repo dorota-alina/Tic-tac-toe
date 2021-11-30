@@ -26,7 +26,7 @@ Tic-Tac-Toe (aka noughts and crosses or Xs and Os) is a paper-and-pencil game th
 
 If you enjoy playing Tic-Tac-Toe, it's likely you'll also like other paper-and-pensil games, such as
 
-* [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game)
+* [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game))
 * [Dots and Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
 
 Check them out!
