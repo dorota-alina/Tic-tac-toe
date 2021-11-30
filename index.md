@@ -28,7 +28,7 @@ With the other player, decide
 
 ### Rules of the game
 
-Here are Tic-Tac-Toe player's actions:
+Here are Tic Tac Toe player's actions:
 
 1. Let a player who selected the game-initiating mark start (as [agreed before the game](#decide-and-select).
 2. When your turn comes, mark an empty field of your choice in the grid with your selected symbol (X or O).
@@ -48,8 +48,8 @@ The game can complete with a win/lose or a draw.
 
 ## Tips and tricks
 
-* The is no clear guidance on the optiaml game strategy.
-* You can discover your best playing scenarion shortly just playing along.
+* You will discover your best playing scenarion shortly just playing along.
+* When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig in his/her next turn by blocking his/her three-same-mark rows, if any. You can do that by placing your mark nex to two other player's marks.
 
 ## Play on
 
