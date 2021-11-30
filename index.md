@@ -4,17 +4,11 @@
 
 ## In this article
 
-Write a short document that describes how to play tic-tac-toe. You
-might think this sounds easy and is a trick question, it isn’t a trick. We
-find value in how candidates approach both exercises.
-● Assume that your audience is an intelligent adult but has
-somehow never heard of tic-tac-toe.
+If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic-Tac-Toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
 
+## About Tic-Tac-Toe
 
-To filter out last week's YouTube videos that are under 4-min-long, you can either check the [video instruction](#video-instruction) or follow the [step-by-step guideline](#step-by-step).
-
-Learn it the quickest way: Checking [this video](https://user-images.githubusercontent.com/63733226/129234494-935af5d9-bc01-476b-97d0-99d56747f7b1.mp4) will take 20 seconds only.
-
+Tic-Tac-Toe (aka noughts and crosses or Xs and Os) is a paper-and-pencil game that requires two players taking turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as Ultimate Tic-Tac-Toe, 3D Tic-Tac-Toe, or Wild Tic-Tac-Toe.
 
 ## Before you start
 
@@ -30,7 +24,9 @@ Learn it the quickest way: Checking [this video](https://user-images.githubuserc
 
 ## Play on
 
-If you enjoy playing Tic-Tac-Toe, you're also going to like the folloing games:
+If you enjoy playing Tic-Tac-Toe, it's likely you'll also like other paper-and-pensil games, such as
 
+* [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game)
+* [Dots and Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
 
 Check them out!
