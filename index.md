@@ -1,7 +1,3 @@
----
-
----
-
 # How to play Tic-Tac-Toe
 
 ![ttt](ttt.jpg)
