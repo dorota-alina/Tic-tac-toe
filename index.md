@@ -8,21 +8,34 @@ If you're looking for an relative easy pastime and don't want to get sweat, stre
 
 ## About Tic-Tac-Toe
 
-Tic-Tac-Toe (aka noughts and crosses or Xs and Os) is a paper-and-pencil game that requires two players taking turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as Ultimate Tic-Tac-Toe, 3D Tic-Tac-Toe, or Wild Tic-Tac-Toe.
+Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil game that requires two players to take turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as Ultimate Tic-Tac-Toe, 3D Tic-Tac-Toe, or Wild Tic-Tac-Toe.
 
 ## Before you start
+
+* Find one person to play with.
+* Prepare a pensil (or something else you can use for putting down X/O marks on the board) and a piece of paper (or something that you can use for drawing your grid and marks).
+* With the other player, decide who is going to take the firs turn: a player using Os or a player using Xs.
+* With the other player, decide who of you is going to use Xs and who is going to use Os.
 
 ## Let's play
 
 ### Rules of the game
 
-### Player's actions
+Here are Tic-Tac-Toe player's actions:
+
+1. When your turn comes, mark a selected field in the grid with your symbol (X or O).
+2. Continue until one of you puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means he/she wins.
+3. Winner can cross out the lucky row stampling the grid as closed.
 
 #### Check out a sample round
 
 ![example](example.jpg)
 
 ## Game over
+
+The game can complete with a win/lose or a draw.
+
+> Tic-Tac-Toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarions.
 
 ## Tips and tricks
 
