@@ -4,6 +4,8 @@
 
 # How to play Tic-Tac-Toe
 
+![ttt](ttt.jpg)
+
 ## In this article
 
 Write a short document that describes how to play tic-tac-toe. You
