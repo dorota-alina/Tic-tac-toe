@@ -9,7 +9,7 @@ If you're looking for an relative easy pastime and don't want to get sweat, stre
 CONTENTS
 >[About Tic-tac-toe](#about-tic-tac-toe)<br>
 >[Before you start](#before-you-start)<br>
->[Rules-of-the-game](#rules-of-the-game)<br>
+>[Rules of the game](#rules-of-the-game)<br>
 >[Sample round](#sample-round)<br>
 >[Tips and tricks](#tips-and-tricks)<br>
 >[Play on](#play-on)<br>
