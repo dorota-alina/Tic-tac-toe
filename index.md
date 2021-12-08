@@ -4,11 +4,11 @@
 
 ## In this article
 
-If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic Tac Toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
+If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic-tac-toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
 
-## About Tic Tac Toe
+## About Tic-tac-toe
 
-Tic-Tac-Toe (aka *noughts and crosses* or *Xs and Os*) is a paper-and-pencil game that requires two players to take turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-Tac-Toe variants, such as [Ultimate Tic Tac Toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe), [3D Tic Tac Toe](https://en.wikipedia.org/wiki/3D_tic-tac-toe), or [Wild Tic Tac Toe](https://en.wikipedia.org/wiki/Wild_tic-tac-toe).
+Tic-tac-toe (aka *noughts and crosses* or *Xs and Os*) is a pen-and-paper game that requires two players taking turns filling in the fields in the 3x3 grid with Xs or Os. The winner is a player who puts down three same marks in a horizontal, vertical, or diagonal row. There are a number of Tic-tac-toe variants, such as [Ultimate Tic-tac-toe](https://en.wikipedia.org/wiki/Ultimate_tic-tac-toe), [3D Tic-tac-toe](https://en.wikipedia.org/wiki/3D_tic-tac-toe), or [Wild Tic-tac-toe](https://en.wikipedia.org/wiki/Wild_tic-tac-toe).
 
 ## Before you start
 
@@ -28,7 +28,7 @@ With the other player, decide
 
 ### Rules of the game
 
-Here are Tic Tac Toe player's actions:
+Here are Tic-tac-toe player's actions:
 
 1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and puting down the first mark.
 2. Players take turns marking empty fields in the grid with their selected symbols (Xs or Os).
@@ -47,7 +47,7 @@ Here are Tic Tac Toe player's actions:
 
 The game can complete with a win/lose or a draw.
 
-> Tic Tac Toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarions.
+> Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarions.
 
 ## Tips and tricks
 
