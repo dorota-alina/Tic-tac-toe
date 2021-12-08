@@ -38,7 +38,7 @@ Let's play!
 
 ### Player's actions
 
-1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and puting down the first mark.
+1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and putting down the first mark.
 2. Players take turns marking empty fields in the grid with their selected symbols (Xs or Os).
 3. Players iterate step 2 until the end of the round, which is when either
 
