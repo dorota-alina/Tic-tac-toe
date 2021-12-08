@@ -28,30 +28,30 @@ With the other player, decide
 
 ### Rules of the game
 
-Here are Tic-tac-toe player's actions:
+#### Player's actions
 
 1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and puting down the first mark.
 2. Players take turns marking empty fields in the grid with their selected symbols (Xs or Os).
-3. Players iterate step 2 until
+3. Players iterate step 2 until the end of the round, which is when either
 
-   * One of them wins by putting down the third same symbol in a row (horizontal, vertical, or diagonal) and crossing it out to stamp the grid as closed
+   * One of the players [wins](#end-of-the-game) by putting down the third same symbol in a row (horizontal, vertical, or diagonal) and crossing it out to stamp the grid as closed
      
      OR
      
-   * There are no more free spaces in the grid, which mean a draw.
+   * There are no more free spaces in the grid, which mean a [draw](#end-of-the-game).
 
 4. Before the players start another game, they rotate the initiating mark so that the same player does not start two consecutive games.
 5. Players iterate steps 1 - 4 as long as they feel like playing.
 
-#### Check out a sample round
-
-![example](tttt.jpg)
-
-## Game over
+#### End of the game
 
 The game can complete with a win/lose or a draw.
 
 > Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarios.
+
+#### Check out a sample round
+
+![example](tttt.jpg)
 
 ## Tips and tricks
 
