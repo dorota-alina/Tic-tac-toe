@@ -6,13 +6,13 @@
 
 If you're looking for an relative easy pastime and don't want to get sweat, stressed, or broke, you're in the right place. In this article, you'll learn how to play Tic-tac-toe. You'll find out what you need to start, what rules to follow, and how to maximize your chances for winning.
 
-> CONTENTS
->> [About Tic-tac-toe](#about-tic-tac-toe)<br>
->> [Before you start](#before-you-start)<br>
->> [Rules-of-the-game](#rules-of-the-game)<br>
->> [Sample round](#sample-round)<br>
->> [Tips and tricks](#tips-and-tricks)<br>
->> [Play on](#play-on)<br>
+CONTENTS
+>[About Tic-tac-toe](#about-tic-tac-toe)<br>
+>[Before you start](#before-you-start)<br>
+>[Rules-of-the-game](#rules-of-the-game)<br>
+>[Sample round](#sample-round)<br>
+>[Tips and tricks](#tips-and-tricks)<br>
+>[Play on](#play-on)<br>
 
 ## About Tic-tac-toe
 
