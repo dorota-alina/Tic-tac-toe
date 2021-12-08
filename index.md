@@ -51,11 +51,11 @@ Here are Tic-tac-toe player's actions:
 
 The game can complete with a win/lose or a draw.
 
-> Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarions.
+> Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarios.
 
 ## Tips and tricks
 
-* Just play along: You will discover your best playing scenarion shortly.
+* Just play along: You will discover your best playing scenarios shortly.
 * You can increase you chances to win the game if you're the one who starts.
 * When deciding where to place your mark and not able to find a 3-same-mark-row option, at least try to prevent the other player from winnig by blocking their three-same-mark rows, if any. You can do that by placing your mark next to two same consecutive marks of the other player.
 
