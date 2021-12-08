@@ -24,11 +24,11 @@ With the other player, decide
 * What mark (X or O) initiates the first game
 * Who of you is going to use X and who is going to use O.
 
-## Let's play
+Let's play!
 
-### Rules of the game
+## Rules of the game
 
-#### Player's actions
+### Player's actions
 
 1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and puting down the first mark.
 2. Players take turns marking empty fields in the grid with their selected symbols (Xs or Os).
@@ -43,13 +43,13 @@ With the other player, decide
 4. Before the players start another game, they rotate the initiating mark so that the same player does not start two consecutive games.
 5. Players iterate steps 1 - 4 as long as they feel like playing.
 
-#### End of the game
+### End of the game
 
 The game can complete with a win/lose or a draw.
 
 > Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarios.
 
-### Sample round
+## Sample round
 
 Check out an example game.
 
