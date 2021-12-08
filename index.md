@@ -45,7 +45,7 @@ Here are Tic-tac-toe player's actions:
 
 #### Check out a sample round
 
-![example](example.jpg)
+![example](tttt.jpg)
 
 ## Game over
 
