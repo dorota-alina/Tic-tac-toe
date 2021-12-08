@@ -61,7 +61,7 @@ The game can complete with a win/lose or a draw.
 
 ## Play on
 
-If you enjoy playing Tic-tac-toe, it's likely you'll also like other paper-and-pensil games, such as
+If you enjoy playing Tic-tac-toe, it's likely you'll also like other pen-and-paper games, such as
 
 * [Sprouts](https://en.wikipedia.org/wiki/Sprouts_(game))
 * [Dots and Boxes](https://en.wikipedia.org/wiki/Dots_and_Boxes)
