@@ -49,7 +49,9 @@ The game can complete with a win/lose or a draw.
 
 > Tic-tac-toe is a solved game: It's possible to predict a draw if both players follow best possible playing scenarios.
 
-#### Check out a sample round
+#### Sample round
+
+Check out an example game.
 
 ![example](tttt.jpg)
 
