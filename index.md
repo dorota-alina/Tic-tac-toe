@@ -32,9 +32,11 @@ Here are Tic-tac-toe player's actions:
 
 1. Player who selected the game-initiating mark (as [agreed before the game](#decide-and-select)) starts by drawing a grid and puting down the first mark.
 2. Players take turns marking empty fields in the grid with their selected symbols (Xs or Os).
-3. Players iterate step 2 until one of them puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means they win.
+3. Players iterate step 2 until
 
-   > As a winner, the player crosses out the lucky row, stampling the grid as closed.
+   * One of them puts down the third same symbol in a row (horizontal, vertical, or diagonal), which means this player wins
+     > As a winner, the player crosses out the lucky row, stampling the grid as closed.
+   * There are no more free spaces in the grid.
 
 4. Before the players start another game, they rotate the initiating mark so that the same player does not start two consecutive games.
 5. Players iterate steps 1 - 4 as long as they feel like playing.
